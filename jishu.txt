@@ -1,0 +1,145 @@
+write someting 
+date- 13.4.22
+
+
+
+ctrl+y- redo
+ctrl+l- select line
+ctrl+x- cut the line/cut select text
+ctrl+z- undo
+14.4.2022
+ctrl+/- comments
+ul- unordered list
+li- listed items
+dt- description terms
+dd- description defination 
+dl- description list
+<ul type="circle">
+        <li>arbind</li>
+        <li>jishu</li>
+        <li>nabeen</li>
+    </ul>
+    <ol type="i"> <li>arbind</li>
+        <li>jishu</li>
+        <li>nabeen</li>
+    </ol>
+    <dl>
+        <dt>Name:</dt>
+        <dd>Jishu</dd>
+        <dt>Age:</dt>
+        <dd>23</dd>
+        <dt>company:</dt>
+        <dd>blackberry</dd>
+    </dl>
+    <h1>Links :</h1>
+    <a href="https://amazon.com">test</a>
+     <h1>Links :</h1>
+    <a href="https://amazon.com" target="_blank">Test</a>
+    <b>bold text</b><br>
+    <strong>bold text</strong>
+    <ins>inserted text</ins>
+    <del>deleted text</del><br>
+    some text <sup>i am super text</sup>
+    some text <sup>i am super text</sup><br>
+    some text <sub>i am</sub> some text <br>
+    <small>small taext</small>
+    18.4.22
+    <from><input type="text" placeholder="name"><br>
+    <input type="number" placeholder="some number"><br>
+    <input type="email" placeholder="email"><br>
+   <input type="text" placeholder="User Name"><br>
+    <input type="number" placeholder="Some number"><br>
+    <input type="email" placeholder="Email"><br>
+    <input type="password" placeholder="password"><br>
+    <input type="checkbox"><br>
+    <input type="radio"><br>
+    <input type="time"><br>
+    <input type="date"><br>
+    <input type="datetime-local"><br>
+    <input type="file"><br>
+    <input type="url" placeholder="url"></from>
+   <form>
+        <input type="text" placeholder="Username"><br><br>
+        <input type="Email" placeholder="Email"><br><br>
+        <input type="submit">
+    </form>
+    
+    <form action="C:\Users\BISWA RANJAN KHANRA\Desktop\prepbytes\ea12\test.html">
+        <input required type="text" placeholder="User name"><br><br>
+        <input required type="emaail" placeholder="Email"><br><br>
+        <input type="submit">
+    </form>
+  <h3>Iframes:inliner frames</h3>
+    <iframe src="https://prepbytes.com"
+    width="300"
+    height="300"></iframe>
+    <iframe src="https://www.javatpoint.com/"
+    width="300"
+    height="300"></iframe>
+    <iframe src="C:\Users\BISWA RANJAN KHANRA\Desktop\prepbytes\ea12\test.html"
+    width="300" height="300"></iframe>
+    <body>
+    <h3>Iframes:inliner frames</h3>
+ <iframe src="https://www.youtube.com/embed/HoCwa6gnmM0"></iframe>
+</body>
+19.4.22
+<a href="./test.html"> test</a>
+   <a href="./index.html">index</a>
+   <body>
+    <p>hello</p>
+    <img src="./gold.jpg" alt="">
+</body>
+<body>
+   <table bgcolor="blue" cellpadding="20">
+     <tr bgcolor="yellow">
+         <th>Name</th>
+         <th>Age</th>
+         <th>College</th>
+     </tr>
+     <tr bgcolor="aqua">
+         <td>Jishu</td>
+         <td>20</td>
+         <td>TIMT</td>
+     </tr>
+     <tr bgcolor="white">
+        <td>Jishu</td>
+        <td>20</td>
+        <td>TIMT</td>
+    </tr>
+    <tr bgcolor="tomato">
+        <td>Jishu</td>
+        <td>20</td>
+        <td colspan"2">TIMT</td>
+    </tr>
+    <tr bgcolor="red">
+        <td rowspan="2">Jishu</td>
+        <td>20</td>
+        <td>TIMT</td>
+    </tr>
+      
+   </table>
+</body>
+<title>jishu</title>
+    <base href="https://google.com/">
+
+
+</head>
+<body>
+    <a href="https://amazon.com">Amazon</a>
+    <a href="test">Google page</a>
+    <a href="https://blogger.com/console">Console page</a>
+  </body>
+  <title>jishu</title>
+    <link rel="icon" href="./gold.jpg">
+</head>
+<body>
+  favicon   
+    
+
+</body>
+20.4.22
+<b>Bold text</b>
+  <p>hjudi hsjhd bshs </p> 
+    <i>italic</i>
+<input type="text">
+<div>kdjjd ldjjf jsahs </div>
